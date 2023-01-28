@@ -1,5 +1,4 @@
 # Organizador MFES with Python
----
 ## Description
 This script is designed to organize your files by the file extension of each one.
 The script first creates the folders where the files will be saved.
